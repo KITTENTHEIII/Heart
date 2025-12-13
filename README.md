@@ -1,6 +1,6 @@
 # How to use
 
-## Method 1 (pre-compiled .EXE)
+## Method 1 (pre-compiled .EXE)  [Recommended]
 
 Download the EXE folder, and run the executable file inside.
 
